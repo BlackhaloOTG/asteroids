@@ -7,7 +7,7 @@ from asteroidfield import AsteroidField
 from shot import Shot
 
 def main():
-    pygame.init()
+    pygame.init
     print ("Starting Asteroids!")
     print (f"Screen width: {SCREEN_WIDTH}")
     print (f"Screen height: {SCREEN_HEIGHT}")
